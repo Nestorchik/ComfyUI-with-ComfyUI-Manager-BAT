@@ -1,4 +1,4 @@
-# ComfyUI-ComfyUI-Manager-BAT
+# ComfyUI with ComfyUI-Manager BAT-file
 
 ---
 
