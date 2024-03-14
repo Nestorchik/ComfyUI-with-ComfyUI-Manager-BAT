@@ -50,7 +50,7 @@
 
 ---
 
-Установка и сборка происходит автоматически bat-файлом "supir_install.bat", в котором прописаны все команды для скачивания и инсталляции всего, что нужно для работы "ComfyUI". Все пакеты питона, и модули скачиваются и копируются на свое место автоматически.
+Установка и сборка происходит автоматически bat-файлом "install_comfyui.bat", в котором прописаны все команды для скачивания и инсталляции всего, что нужно для работы "ComfyUI". Все пакеты питона, и модули скачиваются и копируются на свое место автоматически.
 
 > Installation and assembly takes place automatically with the bat file "install_comfyui.bat", which contains all the commands for downloading and installing everything that is needed for "ComfyUI". All python packages and modules are downloaded and copied to their place automatically.
 
